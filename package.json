@@ -1,0 +1,28 @@
+{
+  "name": "github-contribution-graph",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbderrahmanAboumouslim/hack-my-contribution-graph.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbderrahmanAboumouslim/hack-my-contribution-graph/issues"
+  },
+  "homepage": "https://github.com/AbderrahmanAboumouslim/hack-my-contribution-graph#readme",
+  "devDependencies": {
+    "webpack": "^5.68.0",
+    "webpack-cli": "^4.9.2"
+  },
+  "dependencies": {
+    "color": "^4.2.1",
+    "interpolate-rgb": "0.0.2"
+  }
+}
